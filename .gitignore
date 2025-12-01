@@ -1,0 +1,10 @@
+# Visual Studio
+
+*.sln
+.vs
+*.pyproj
+
+#Python
+
+.venv
+__pycache__/
